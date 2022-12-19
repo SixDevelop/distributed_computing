@@ -1,0 +1,19 @@
+1) node 1; tasks per node 16
+Vector size: 10000
+Sequential algorithm execution time: 39
+MPI algorithm execution time: 1.65361
+
+2) nodes 2; tasks per node 8
+Vector size: 10000
+Sequential algorithm execution time: 42
+MPI algorithm execution time: 66.4621
+
+3) nodes 4; tasks per node 4
+Vector size: 10000
+Sequential algorithm execution time: 39
+MPI algorithm execution time: 112.914
+
+4) nodes 8; tasks per node 2
+Vector size: 10000
+Sequential algorithm execution time: 52
+MPI algorithm execution time: 146.502
